@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NCKH>
+	<DsDeTai>
+		<!--
+		1:Nghien Cuu LT
+		2:Kinh Te
+		3:Cong Nghe
+		-->
+		<DeTai loai ="1">
+			<TenDeTai>Nghiên cứu ảnh hưởng của AI</TenDeTai>
+			<GvHD>TS. Nguyễn Văn A</GvHD>
+			<TruongNhom>Lê Văn M</TruongNhom>
+			<TgBD>01/01/2024</TgBD>
+			<TgKT>01/04/2024</TgKT>
+			<ThucTe>True</ThucTe>
+		</DeTai>
+
+		<DeTai loai ="2">
+			<TenDeTai>Khảo sát thị trường tiêu dùng</TenDeTai>
+			<GvHD>TS. Trần Thị B</GvHD>
+			<TruongNhom>Trần Minh N</TruongNhom>
+			<TgBD>15/02/2024</TgBD>
+			<TgKT>15/06/2024</TgKT>
+			<CauHoiKhaoSat>150</CauHoiKhaoSat>
+		</DeTai>
+
+		<DeTai loai ="3">
+			<TenDeTai>Phát triển ứng dụng di động</TenDeTai>
+			<GvHD>TS. Nguyễn Văn A</GvHD>
+			<TruongNhom>Phạm Ngọc O</TruongNhom>
+			<TgBD>10/03/2024</TgBD>
+			<TgKT>10/07/2024</TgKT>
+			<MoiTruong>Mobile</MoiTruong>
+		</DeTai>
+
+		<DeTai loai ="1">
+			<TenDeTai>Khám phá công nghệ Blockchain</TenDeTai>
+			<GvHD>PGS. Phạm Thị D</GvHD>
+			<TruongNhom>Hoàng Thị P</TruongNhom>
+			<TgBD>05/04/2024</TgBD>
+			<TgKT>05/08/2024</TgKT>
+			<ThucTe>False</ThucTe>
+		</DeTai>
+
+		<DeTai loai ="2">
+			<TenDeTai>Nghiên cứu mô hình kinh doanh mới</TenDeTai>
+			<GvHD>TS. Vũ Thị G</GvHD>
+			<TruongNhom>Nguyễn Văn Q</TruongNhom>
+			<TgBD>20/05/2024</TgBD>
+			<TgKT>20/09/2024</TgKT>
+			<CauHoiKhaoSat>200</CauHoiKhaoSat>
+		</DeTai>
+
+		<DeTai loai ="3">
+			<TenDeTai>Xây dựng hệ thống quản lý dự án</TenDeTai>
+			<GvHD>TS. Nguyễn Văn A</GvHD>
+			<TruongNhom>Vũ Thế R</TruongNhom>
+			<TgBD>30/06/2024</TgBD>
+			<TgKT>30/10/2024</TgKT>
+			<MoiTruong>Web</MoiTruong>
+		</DeTai>
+
+		<DeTai loai ="1">
+			<TenDeTai>Nghiên cứu công nghệ thực tế ảo</TenDeTai>
+			<GvHD>TS. Vũ Thị G</GvHD>
+			<TruongNhom>Đặng Hải S</TruongNhom>
+			<TgBD>01/07/2024</TgBD>
+			<TgKT>01/11/2024</TgKT>
+			<ThucTe>True</ThucTe>
+		</DeTai>
+
+		<DeTai loai ="2">
+			<TenDeTai>Đánh giá sự hài lòng của khách hàng</TenDeTai>
+			<GvHD>TS. Hồ Văn H</GvHD>
+			<TruongNhom>Bùi Thái T</TruongNhom>
+			<TgBD>15/08/2024</TgBD>
+			<TgKT>15/12/2024</TgKT>
+			<CauHoiKhaoSat>90</CauHoiKhaoSat>
+		</DeTai>
+
+		<DeTai loai ="3">
+			<TenDeTai>Phát triển website thương mại điện tử</TenDeTai>
+			<GvHD>PGS. Nguyễn Thị J</GvHD>
+			<TruongNhom>Hồ Thanh U</TruongNhom>
+			<TgBD>10/01/2024</TgBD>
+			<TgKT>10/09/2024</TgKT>
+			<MoiTruong>Web</MoiTruong>
+		</DeTai>
+
+		<DeTai loai ="1">
+			<TenDeTai>Phân tích dữ liệu lớn trong y tế</TenDeTai>
+			<GvHD>PGS. Nguyễn Thị J</GvHD>
+			<TruongNhom>Nguyễn Hoàng V</TruongNhom>
+			<TgBD>01/02/2024</TgBD>
+			<TgKT>01/10/2024</TgKT>
+			<ThucTe>False</ThucTe>
+		</DeTai>
+	</DsDeTai>
+</NCKH>
